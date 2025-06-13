@@ -1,0 +1,10 @@
+.cartao-produto {
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: rgb(34, 34, 34);
+  max-width: 300px;
+  margin: 10px auto;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  color: white;
+}
